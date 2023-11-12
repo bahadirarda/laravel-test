@@ -58,4 +58,16 @@ Projeyi yerel geliştirme ortamınızda çalıştırmak için aşağıdaki adım
    ```
 6. Tarayıcınızda `localhost:8000` adresine giderek uygulamayı görüntüleyin.
 
+7. Örnek kullanıcı bilgileri aşağıdaki gibidir.
+   ```
+   Admin kullanıcısı
+   E-posta: dm@webintek.com.tr
+   Password: webintek
+   ```
+
+   ```
+   Test User
+   E-posta: test@test.com
+   Password: test
+   ```
 Teşekkürler! 🎉
